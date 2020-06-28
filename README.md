@@ -1,3 +1,3 @@
 # Влад Амелин
 Мои проекты
-[my](https://vladuamel.github.io/my/"Мой проект")
+[my-](https://vladuamel.github.io/my/ "Мой проект")
